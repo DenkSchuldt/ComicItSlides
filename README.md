@@ -1,4 +1,5 @@
 AndroidApp_Slides
+=================
 
 Tema: Comic it!
 
@@ -21,3 +22,7 @@ Características: En el repositorio AndroidApp_Slides se encontrarán archivos com
 Esta presentación está dedicada a la difusión de nuestra nueva aplicación para Android llamada Comic it!.
 
 Esta aplicación está diseñada para la creación de historietas.
+
+
+
+A presentation using LaTeX.
